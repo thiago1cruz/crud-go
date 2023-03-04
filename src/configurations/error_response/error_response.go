@@ -1,4 +1,4 @@
-package exceptions
+package error_response
 
 import "net/http"
 
